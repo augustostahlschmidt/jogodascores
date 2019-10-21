@@ -8,7 +8,7 @@ Trabalho realizado para a disciplina de Processamento Gráfico da UNISINOS em 20
 *   [GLEW](http://glew.sourceforge.net/)
 *   [GLM](https://glm.g-truc.net/0.9.9/index.html)
 
-## Como cofigurar o ambiente
+## Como configurar o ambiente
 
 Por favor, siga os passos neste [link](https://github.com/savannadenega/game-opengl).
 
